@@ -1,0 +1,5 @@
+Quando o Facebook decidiu oferecer seus serviços em dispositivos móveis em vez de criar aplicativos nativos, como muitas das principais empresas de tecnologia da época, eles decidiram executar em páginas da Web móveis baseadas em HTML5. No entanto, esta solução não resistiu ao longo do tempo, deixando muito espaço para melhorias na interface do usuário e no desempenho.
+
+Logo depois, em 2013, o desenvolvedor do Facebook, Jordan Walke, fez uma descoberta inovadora: ele encontrou um método de gerar elementos de interface do usuário para aplicativos iOS com o JavaScript; ou seja, conseguiu desenhar uma tela de app com Javascript. Isso provocou um incêndio e um Hackathon especial foi organizado para descobrir ainda mais quanto desenvolvimento móvel poderia ser feito usando soluções JavaScript (até agora, tradicionalmente baseadas na web).
+
+Foi assim que o React Native ganhou vida. Inicialmente desenvolvido apenas para iOS, o Facebook rapidamente o seguiu com suporte ao Android, antes de tornar o framework público em 2015. Apenas três anos depois, o React Native já era o segundo maior projeto no GitHub, medido pelo número de contribuidores. 
